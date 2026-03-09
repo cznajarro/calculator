@@ -20,6 +20,8 @@ git clone https://github.com/cznajarro/calculator.git
 - CSS
 - JavaScript (vanilla)
 
+[Here's the link to the live version](https://cznajarro.github.io/livecalc/)
+
 ## License
 
 This project is licensed under the [MIT License]
